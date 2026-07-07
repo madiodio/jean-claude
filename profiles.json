@@ -3,6 +3,10 @@
     "personal": {
       "alias": "claude-personal",
       "configDir": "/Users/madiodio/.claude-personal"
+    },
+    "work": {
+      "alias": "claude-work",
+      "configDir": "/Users/madiodio/.claude-work"
     }
   }
 }
